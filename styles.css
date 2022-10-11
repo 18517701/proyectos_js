@@ -1,0 +1,29 @@
+body{
+    background-image: url(./assets/fluid256.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    ;
+  
+    position: fixed;
+
+    
+    
+}
+h1{
+    color:#ffffff;
+    display: center;
+}
+
+.nav-item {
+    color: #ffffff;
+    font-size: 18px;
+    padding-left: 40px;
+    align-items: center;
+}
+.navbar{
+    padding-left: 80px;
+    
+}
+li{
+    color:white;
+}
