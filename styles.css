@@ -14,16 +14,17 @@ h1{
     display: center;
 }
 
-.nav-item {
-    color: #ffffff;
+a{
+    color:#ffffff;
+    display: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 40px;
+    margin:10px;
     font-size: 18px;
-    padding-left: 40px;
-    align-items: center;
-}
-.navbar{
-    padding-left: 80px;
+    transition:hover 10px;
     
+
 }
-li{
-    color:white;
+nav{
+    padding-left: 80px;
 }
